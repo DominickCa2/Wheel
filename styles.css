@@ -1,0 +1,29 @@
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+}
+#img-caption {
+text-align: center;
+}
+* {
+background-color: rgb(100, 200, 255);
+}
+h2 {
+font-family: "Comic Sans MS";
+}
+p {
+font-family: Verdana;
+}
+#tesla {
+max-width: 50%;
+}
+#bicycle {
+max-width: 50%;
+}
+a {
+font-family: Arial;
+padding-bottom: 50px;
+}
+  
